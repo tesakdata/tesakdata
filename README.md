@@ -36,7 +36,7 @@ In addition to Excel-based analysis, I work with Python, SQL, and SAP ERP to han
 
 
 <p align="left">
-  <a href="https://github.com/tesakdata/Purchase-Order-Lifecycle-P2P">
+  <a href="https://github.com/tesakdata/Purchase-Order-Lifecycle-P2P-">
    Purchase Order Lifecycle (P2P) – End-to-End Procurement Process
   </a>
 </p>
@@ -44,7 +44,7 @@ In addition to Excel-based analysis, I work with Python, SQL, and SAP ERP to han
 <table>
   <tr>
     <td width="45%" align="center">
-      <a href="https://github.com/tesakdata/Purchase-Order-Lifecycle-P2P">
+      <a href="https://github.com/tesakdata/Purchase-Order-Lifecycle-P2P-">
        <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69e4e8e03c14fb22aebfa60a_Screenshot%202026-04-19%20151953.png" width="600"/>
       </a>
     </td>

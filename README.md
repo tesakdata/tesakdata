@@ -60,15 +60,11 @@ In addition to Excel-based analysis, I work with Python, SQL, and SAP ERP to han
 
 
 
-<p align="right">
-  <a href="https://github.com/tesakdata/BOQ-Cost-Analysis-Procurement">
-    <img src="YOUR_BOQ_IMAGE_LINK_HERE" width="300"/>
-  </a>
-</p>
+
 
 
 <p align="left">
-  <a href="https://github.com/tesakdata/Purchase-Order-Lifecycle-P2P">
+  <a href="https://github.com/tesakdata/Bill-of-Quantities-BOQ-Cost-Analysis-Procurement-Project">
  Bill of Quantities (BOQ) & Spend Analysis – Construction Procurement
   </a>
 </p>
@@ -76,7 +72,7 @@ In addition to Excel-based analysis, I work with Python, SQL, and SAP ERP to han
 <table>
   <tr>
     <td width="45%" align="center">
-      <a href="https://github.com/tesakdata/Purchase-Order-Lifecycle-P2P">
+      <a href="https://github.com/tesakdata/Bill-of-Quantities-BOQ-Cost-Analysis-Procurement-Project">
        <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69e5f768f3a969c14b78fb9c_Screenshot%202026-04-20%20094201.png" width="600" height="400"/>
       </a>
     </td>
@@ -100,7 +96,7 @@ Using a 3-Bedroom Residential Duplex with German Floor (Raft) Foundation in Lago
 
 
 <p align="left">
-  <a href="https://github.com/tesakdata/Purchase-Order-Lifecycle-P2P">
+  <a href="https://github.com/tesakdata/Procurement-Supply-Chain-Performance-Analysis-Excel-Dashboard-">
 Procurement & Supply Chain Performance Analysis – Excel Dashboard
   </a>
 </p>
@@ -108,7 +104,7 @@ Procurement & Supply Chain Performance Analysis – Excel Dashboard
 <table>
   <tr>
     <td width="45%" align="center">
-      <a href="https://github.com/tesakdata/Purchase-Order-Lifecycle-P2P">
+      <a href="https://github.com/tesakdata/Procurement-Supply-Chain-Performance-Analysis-Excel-Dashboard-">
        <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69e5f33f9521a0481baf0b5c_Screenshot%202026-04-20%20094259.png" width="600" height="400"/>
       </a>
     </td>

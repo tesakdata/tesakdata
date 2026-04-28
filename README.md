@@ -10,7 +10,7 @@ The projects focus on solving business problems such as cost reduction, supplier
 
 ## About Me
 
-I am a Supply Chain, Procurement, and Data Analyst with hands-on experience across construction, real estate, IT equipment (servers and networking infrastructure), and communication gadgets procurement.
+I am a Supply Chain, Procurement, and Data Analyst with hands-on experience across construction, real estate, electrical systems, IT infrastructure(servers and networking infrastructure), and communication technology procurement.
 
 I am actively involved in procurement operations, including sourcing materials, vendor engagement, purchase order execution, and supplier coordination, ensuring timely and cost-effective delivery of goods for organisational needs.
 

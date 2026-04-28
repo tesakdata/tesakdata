@@ -14,8 +14,6 @@ I am a Supply Chain, Procurement, and Data Analyst with hands-on experience acro
 
 I am actively involved in procurement operations, including sourcing materials, vendor engagement, purchase order execution, and supplier coordination, ensuring timely and cost-effective delivery of goods for organisational needs.
 
-I specialise in analysing Bills of Quantities (BOQ), preparing cost estimates, and evaluating supplier pricing to support efficient procurement decisions. My experience spans sourcing and cost analysis for construction materials, technical equipment, and operational supplies, giving me a strong understanding of both project-based and operational procurement environments.
-
 I combine this practical experience with strong data analytics skills to track performance, identify inefficiencies, and provide actionable insights that improve both supply chain operations and broader business performance.
 
 In addition to Excel-based analysis, I work with Python, SQL, and SAP ERP to handle data extraction, procurement tracking, and analysis, enabling more scalable and efficient data-driven solutions.

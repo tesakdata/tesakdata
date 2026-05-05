@@ -120,6 +120,58 @@ The analysis uncovered key insights (such as 61% On-Time Delivery rate) and deli
 
 ---
 
+
+
+
+<p align="left">
+  <a href="https://github.com/tesakdata/Supply-Chain-Delivery-Performance-Risk-Analysis">
+Supply Chain Delivery Performance & Risk Analysis
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/tesakdata/Procurement-Supply-Chain-Performance-Analysis-Excel-Dashboard-">
+       <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/69fa016a9f2ea2e556cde600_1704960380757.jpg" width="600" height="400"/>
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      This project analyzes delivery performance, disruption risk, supplier reliability, and logistics efficiency using Microsoft Excel, Power Query, and Pivot Tables. Multiple analytical views and dashboards were developed to evaluate on-time delivery, delay patterns, shipping mode performance, supplier reliability, disruption impact, and financial cost exposure across 1,000 supply chain transactions.<br><br>
+
+The analysis uncovered critical insights, including a 49% on-time delivery rate and an average delay of ~1.94 days, revealing systemic inefficiencies in operations. It also identified significant risk concentration in high-value categories and suppliers, along with a moderate but non-linear relationship between supplier reliability and delivery performance. Based on these findings, the project delivers actionable recommendations for logistics optimization, supplier performance management, disruption mitigation, and cost reduction.
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Let's Connect
 
 I'm currently open to opportunities in **Supply Chain Analyst**, **Procurement Officer**, **Operations Analyst**, and **P2P Specialist** roles.

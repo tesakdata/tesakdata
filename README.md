@@ -147,6 +147,77 @@ The analysis uncovered critical insights, including a 49% on-time delivery rate 
 ---
 
 
+<p align="left">
+  <a href="https://github.com/tesakdata/Supplier-Replenishment-Risk-Dashboard">
+Supplier Replenishment Risk Dashboard
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/tesakdata/Supplier-Replenishment-Risk-Dashboard">
+       <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6a01a39acbd4109320740c1c_1671642101539.jpg" width="600" height="400"/>
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      This project analyzes supplier dependency, replenishment risk, inventory exposure, and procurement efficiency using Microsoft Excel, Power Query, Pivot Tables, and Power Pivot. Interactive dashboards were developed to evaluate reorder demand, stock availability, supplier concentration, replenishment performance, and critical SKU risks across supply chain operations.<br><br>
+
+The analysis uncovered key insights, including 180 Critical Reorder SKUs below safe inventory thresholds and significant inventory vulnerabilities in categories such as Grains & Pulses and Beverages. The project provides actionable recommendations for supplier risk mitigation, inventory optimization, replenishment planning, and data-driven procurement decision-making.
+    </td>
+  </tr>
+</table>
+
+---
+
+
+<p align="left">
+  <a href="https://github.com/tesakdata/Inventory-Health-Monitor-Dashboard">
+Inventory Health Monitor Dashboard
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/tesakdata/Inventory-Health-Monitor-Dashboard">
+       <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6a01a5535a8af99591e37953_6496cc6ab6f25dce7a1f5b73_Benefits-of-Implementing-Data-Analytics.png" width="600" height="400"/>
+      </a>
+    </td>
+    <td width="55%" valign="top">
+     This project analyzes inventory health, stock availability, reorder exposure, and inventory turnover using Microsoft Excel, Power Query, Pivot Tables, and Power Pivot. Interactive dashboards were developed to evaluate stock levels, inventory movement, reorder risks, turnover performance, and product lifecycle efficiency across multiple inventory categories.<br><br>
+
+The analysis uncovered key insights, including 455 SKUs below reorder level and 333 discontinued SKUs contributing to inventory inefficiencies and stockout risks. The project delivers actionable recommendations for inventory optimization, replenishment planning, stock allocation, lifecycle management, and data-driven inventory decision-making.
+    </td>
+  </tr>
+</table>
+
+---
+
+
+<p align="left">
+  <a href="https://github.com/tesakdata/Sales-Demand-Intelligence-Dashboard">
+Sales & Demand Intelligence Dashboard
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/tesakdata/Sales-Demand-Intelligence-Dashboard">
+       <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6a01a87adc4bd2a8e4233c25_L227432078_g.jpg" width="600" height="400"/>
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      This project analyzes sales performance, product demand, revenue contribution, and inventory movement using Microsoft Excel, Power Query, Pivot Tables, and Power Pivot. Interactive dashboards were developed to evaluate sales trends, category performance, inventory turnover, demand concentration, and high-performing SKUs across multiple product categories.<br><br>
+
+The analysis uncovered key insights, including 58,336 total sales units, $344,269 total revenue, and 284 high-demand SKUs driving significant sales concentration. The project delivers actionable recommendations for demand forecasting, inventory optimization, replenishment planning, revenue growth, and data-driven commercial decision-making.
+    </td>
+  </tr>
+</table>
+
+---
+
 
 
 
